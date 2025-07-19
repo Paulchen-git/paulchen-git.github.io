@@ -149,6 +149,20 @@ section h2::after {
     color: #a5d4d6;
 }
 
+#aca-section .edu-item {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#exp-section .exp-item {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 
 #skills-section {
     min-height: 30vh;
